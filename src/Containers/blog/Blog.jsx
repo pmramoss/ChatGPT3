@@ -1,7 +1,7 @@
 import React from 'react';
 import Article from '../../Components/article/Article';
 import { blog01, blog02, blog03, blog04, blog05 } from './imports';
-import './blog.css';
+import './blog.scss';
 
 const Blog = () => (
   <div className="gpt3__blog section__padding" id="blog">
